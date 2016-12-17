@@ -1,0 +1,1 @@
+# cookie-authentication-hapi
